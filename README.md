@@ -1,1 +1,1 @@
-Exported file of collection
+Exported file of collection in Postman
